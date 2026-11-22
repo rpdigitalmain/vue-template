@@ -1,0 +1,3 @@
+.page-content {
+  @apply mx-auto my-page-offset max-w-page px-page-gutter;
+}
