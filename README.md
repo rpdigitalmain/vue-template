@@ -1,5 +1,8 @@
 # Vue Template
 
+[![CI](https://github.com/rpdigitalmain/vue-template/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rpdigitalmain/vue-template/actions/workflows/ci.yml?query=branch%3Amain)
+[![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)](LICENSE)
+
 ![Vue 3](https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white)
 ![Node.js 24](https://img.shields.io/badge/Node.js-24-339933?logo=nodedotjs&logoColor=white)
 ![Vite 8](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
